@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+#judul {
+    background-color:rgb(118, 139, 170);
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-bottom: 3px dashed rgb(34, 75, 136);
+}
+
+.content img {
+    width: 480px;
+    height: 290px;
+    margin-left: 400px;
+    margin-right: 250px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: left;
+    background-color: rgb(118, 139, 170);
+    color: white;
+}
+
+.content {
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 18px;
+    text-align: justify;
+    color: white;
+}
+
+.closing {
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: justify;
+    font-size: 18px;
+    color: white;
+}
+
+#form {
+    padding: 20px;
+    background-color: rgb(118, 139, 170);
+    color: white;
+    border: 3px solid rgb(34, 75, 136);
+}
+
+.footer {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    align-items: center;
+    justify-content: center;
+    color: rgb(118, 139, 170);
+}
