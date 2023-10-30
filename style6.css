@@ -1,0 +1,98 @@
+body {
+    font: 16px/28px Times New Roman;
+    background-color: rgb(128, 42, 27);
+    color:black;
+}
+
+p {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-family:Times New Roman;
+    font-size: 17px;
+    text-align: justify;
+}
+
+h2 {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-family:Times New Roman;
+    font-size: 28px;
+}
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: rgba(153, 153, 138, 0.877);
+}
+
+.header {
+    padding: 15px;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.container .header ul {
+    margin-left: -40px;
+}
+.header a {
+    text-decoration: none;
+    color:black;
+}
+
+.header a:hover {
+    background-color: grey;
+    color:brown
+}
+
+.hero {
+    height: 400px;
+    background-image: url(https://asset-2.tstatic.net/solo/foto/bank/images/Band-Vierra-atau-Vierratale.jpg);
+    background-size: cover;
+    background-position: 0 -30px;
+}
+
+.content {
+    padding: 5px;
+}
+
+.list {
+    margin-left: 4rem;
+    margin-right: 4rem;
+    text-align: justify;
+    color: black;
+}
+
+table,tr,th,td{
+    font-size: 17px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-family:Times New Roman;
+    color:rgb(0, 0, 0) ;
+    border:1px solid rgb(109, 29, 29);
+}
+
+.video iframe {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 500px;
+    height: 280px;
+}
+
+.footer .penulis {
+    margin-top: -15px;
+    font-size: 16px;
+    color: white;
+}
+
+a {
+    color: white;
+}
+.footer {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(109, 29, 29);
+}
